@@ -1,0 +1,11 @@
+{
+  "name": "@kt3k/dgrok",
+  "version": "0.1.0",
+  "exports": {
+    ".": "./main.ts"
+  },
+  "deploy": {
+    "org": "kt3k",
+    "app": "dark-shrimp-42"
+  }
+}
